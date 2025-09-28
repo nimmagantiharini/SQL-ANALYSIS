@@ -18,7 +18,6 @@ Subqueries: scalar, correlated, IN, NOT IN
 Views: analysis-ready data sets
 Indexes: query optimization
 Aggregate: MIN,MAX,COUNT,AVERAGE
-
 ## Deliverables
 SQL scripts (.sql files)
 Screenshots of query results
@@ -27,3 +26,6 @@ Build relational tables
 Insert and query structured data
 Use joins, subqueries, views, and indexes effectively
 Optimize queries for better performance
+## Conclusion
+This project demonstrates how SQL can be effectively applied to design, manage, and analyze a relational database. Using Microsoft SQL Server Management Studio (SSMS), a Pets & Owners database was created and explored through schema design, data insertion, and various SQL operations. By applying joins, subqueries, views, and indexing, the project highlights how to retrieve meaningful insights, structure queries for efficiency, and optimize performance.
+The end result showcases not only technical proficiency in SQL but also the ability to model real-world relationships and prepare structured data for decision-making and analysis.
